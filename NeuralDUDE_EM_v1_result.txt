@@ -1,0 +1,55 @@
+gpu0 result
+k=1
+error_nn = 0.063004
+pred_delta =  0.132185
+k=2
+error_nn = 0.060883
+pred_delta =  0.142367
+k=3
+error_nn = 0.060257
+pred_delta =  0.132469
+k=4
+error_nn = 0.060623
+pred_delta =  0.142416
+
+gpu1 result
+k=5
+error_nn = 0.058655
+pred_delta =  0.139381
+k=6
+error_nn = 0.059204
+pred_delta =  0.141592
+k=7
+error_nn = 0.058060
+pred_delta =  0.138673
+k=8
+error_nn = 0.058167
+pred_delta =  0.129824
+
+gpu2 result
+k=9
+error_nn = 0.060791
+pred_delta =  0.139888
+k=10
+error_nn = 0.059143
+pred_delta =  0.134287
+k=11
+error_nn = 0.061630
+pred_delta =  0.150107
+k=12
+error_nn = 0.058197
+pred_delta =  0.138669
+
+gpu3 result
+k=13
+error_nn = 0.057907
+pred_delta =  0.136339
+k=14
+error_nn = 0.057556
+pred_delta =  0.147963
+k=15
+error_nn = 0.057709
+pred_delta =  0.147857
+k=16
+error_nn = 0.058716
+pred_delta =  0.141392

@@ -1,0 +1,21 @@
+#ref_name	mapped reads	mean length
+>NC_009085_Acinetobacter_baumannii_ATCC17978	98	1013	
+>NZ_ACYT00000000_Actinomyces_odontolyticus_F03091	79	930
+>NC_003909_Bacillus_cereus_ATCC10987	144	1053
+>NC_009614_Bacteroides_vulgatus_ATCC8482	33	893
+>NC_009617_Clostridium_beijerinckii_NCIMB8052	97	1025
+>NC_001263_Deinococcus_radiodurans_R1	73	958
+>NC_017316_Enterococcus_faecalis_OG1RF	149	1030
+>NC_000913_Escherichia_coli_K-12	167	1084
+>NC_000915_Helicobacter_pylori_26695	67	937
+>NC_008530_Lactobacillus_gasseri_ATCC33323	123	1041
+>NC_003210_Listeria_monocytogenes_EGD-e	139	1010
+>NC_003112_Neisseria_meningitidis_MC58	87	999
+>NC_006085_Propionibacterium_acnes_KPA171202	75	935
+>NC_002516_Pseudomonas_aeruginosa_PAO1	113	1066
+>NC_007493_Rhodobacter_sphaeroides_2.4.1	95	944
+>NC_010079_Staphylococcus_aureus_TCH1516	164	1079
+>NC_004461_Staphylococcus_epidermidis_ATCC12228	163	1101
+>NC_004116_Streptococcus_agalactiae_2603V/R	156	1066
+>NC_004350_Streptococcus_mutans_UA159	196	1131
+>NC_003028_Streptococcus_pneumoniae_TIGR4	154	1095
